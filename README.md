@@ -1,10 +1,10 @@
 # blog_colorib
 
-##сначала нужно установить виртулаьное окружение 
+## сначала нужно установить виртулаьное окружение 
 ```
 python3 -m venv env
 ```
-#скачать все зависимости из requirements.txt
+# скачать все зависимости из requirements.txt
 ```
 pip install -r requirements.txt
 ```
