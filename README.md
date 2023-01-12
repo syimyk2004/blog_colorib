@@ -10,6 +10,6 @@ pip install -r requirements.txt
 ```
 зайти в:
 ```
-https://pocoz.gitbooks.io/django-v-primerah/content/
+https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html
 ```
 прочитать, понять, простить меня за то что я не захотел писать нормальное объеснение.
